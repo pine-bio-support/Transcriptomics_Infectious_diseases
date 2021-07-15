@@ -1,0 +1,178 @@
+"Set"	"p.val"	"q.val"	"set.size"
+"hsa04062 Chemokine signaling pathway"	0.0679998854586927	0.666206218292305	16
+"hsa04610 Complement and coagulation cascades"	0.0732876077712661	0.666206218292305	15
+"hsa04620 Toll-like receptor signaling pathway"	0.130642325179499	0.666206218292305	12
+"hsa04514 Cell adhesion molecules (CAMs)"	0.150767311878331	0.666206218292305	17
+"hsa04380 Osteoclast differentiation"	0.201380985063641	0.666206218292305	10
+"hsa04742 Taste transduction"	0.229275621493098	0.666206218292305	10
+"hsa04630 Jak-STAT signaling pathway"	0.255446020785782	0.666206218292305	13
+"hsa04622 RIG-I-like receptor signaling pathway"	0.255480918924867	0.666206218292305	11
+"hsa04310 Wnt signaling pathway"	0.290425662178422	0.666206218292305	12
+"hsa04974 Protein digestion and absorption"	0.317241056329669	0.666206218292305	11
+"hsa04512 ECM-receptor interaction"	0.430467353201092	0.821801310656631	20
+"hsa04621 NOD-like receptor signaling pathway"	0.575968790721155	0.929530771486051	10
+"hsa04144 Endocytosis"	0.613429236721661	0.929530771486051	10
+"hsa04510 Focal adhesion"	0.629732039050656	0.929530771486051	22
+"hsa04145 Phagosome"	0.663950551061465	0.929530771486051	11
+"hsa04972 Pancreatic secretion"	0.839143865762739	0.953743630330263	10
+"hsa04810 Regulation of actin cytoskeleton"	0.862569608155168	0.953743630330263	11
+"hsa04612 Antigen processing and presentation"	0.874512734947679	0.953743630330263	15
+"hsa04650 Natural killer cell mediated cytotoxicity"	0.881578482813957	0.953743630330263	13
+"hsa04010 MAPK signaling pathway"	0.94032315635575	0.953743630330263	21
+"hsa04020 Calcium signaling pathway"	0.953743630330263	0.953743630330263	14
+"hsa00010 Glycolysis / Gluconeogenesis"	NA	NA	8
+"hsa00020 Citrate cycle (TCA cycle)"	NA	NA	1
+"hsa00030 Pentose phosphate pathway"	NA	NA	2
+"hsa00040 Pentose and glucuronate interconversions"	NA	NA	0
+"hsa00051 Fructose and mannose metabolism"	NA	NA	2
+"hsa00052 Galactose metabolism"	NA	NA	1
+"hsa00053 Ascorbate and aldarate metabolism"	NA	NA	1
+"hsa00061 Fatty acid biosynthesis"	NA	NA	0
+"hsa00071 Fatty acid metabolism"	NA	NA	4
+"hsa00072 Synthesis and degradation of ketone bodies"	NA	NA	1
+"hsa00100 Steroid biosynthesis"	NA	NA	1
+"hsa00120 Primary bile acid biosynthesis"	NA	NA	0
+"hsa00130 Ubiquinone and other terpenoid-quinone biosynthesis"	NA	NA	0
+"hsa00140 Steroid hormone biosynthesis"	NA	NA	3
+"hsa00190 Oxidative phosphorylation"	NA	NA	2
+"hsa00230 Purine metabolism"	NA	NA	8
+"hsa00232 Caffeine metabolism"	NA	NA	0
+"hsa00240 Pyrimidine metabolism"	NA	NA	2
+"hsa00250 Alanine, aspartate and glutamate metabolism"	NA	NA	2
+"hsa00260 Glycine, serine and threonine metabolism"	NA	NA	5
+"hsa00270 Cysteine and methionine metabolism"	NA	NA	2
+"hsa00280 Valine, leucine and isoleucine degradation"	NA	NA	2
+"hsa00290 Valine, leucine and isoleucine biosynthesis"	NA	NA	0
+"hsa00300 Lysine biosynthesis"	NA	NA	1
+"hsa00310 Lysine degradation"	NA	NA	2
+"hsa00330 Arginine and proline metabolism"	NA	NA	7
+"hsa00340 Histidine metabolism"	NA	NA	4
+"hsa00350 Tyrosine metabolism"	NA	NA	7
+"hsa00360 Phenylalanine metabolism"	NA	NA	3
+"hsa00380 Tryptophan metabolism"	NA	NA	8
+"hsa00400 Phenylalanine, tyrosine and tryptophan biosynthesis"	NA	NA	1
+"hsa00410 beta-Alanine metabolism"	NA	NA	1
+"hsa00430 Taurine and hypotaurine metabolism"	NA	NA	1
+"hsa00450 Selenocompound metabolism"	NA	NA	2
+"hsa00460 Cyanoamino acid metabolism"	NA	NA	1
+"hsa00471 D-Glutamine and D-glutamate metabolism"	NA	NA	0
+"hsa00472 D-Arginine and D-ornithine metabolism"	NA	NA	0
+"hsa00480 Glutathione metabolism"	NA	NA	5
+"hsa00500 Starch and sucrose metabolism"	NA	NA	2
+"hsa00510 N-Glycan biosynthesis"	NA	NA	1
+"hsa00511 Other glycan degradation"	NA	NA	0
+"hsa00512 Mucin type O-Glycan biosynthesis"	NA	NA	4
+"hsa00514 Other types of O-glycan biosynthesis"	NA	NA	0
+"hsa00520 Amino sugar and nucleotide sugar metabolism"	NA	NA	1
+"hsa00531 Glycosaminoglycan degradation"	NA	NA	0
+"hsa00532 Glycosaminoglycan biosynthesis - chondroitin sulfate"	NA	NA	4
+"hsa00533 Glycosaminoglycan biosynthesis - keratan sulfate"	NA	NA	1
+"hsa00534 Glycosaminoglycan biosynthesis - heparan sulfate"	NA	NA	2
+"hsa00561 Glycerolipid metabolism"	NA	NA	4
+"hsa00562 Inositol phosphate metabolism"	NA	NA	3
+"hsa00563 Glycosylphosphatidylinositol(GPI)-anchor biosynthesis"	NA	NA	1
+"hsa00564 Glycerophospholipid metabolism"	NA	NA	8
+"hsa00565 Ether lipid metabolism"	NA	NA	6
+"hsa00590 Arachidonic acid metabolism"	NA	NA	6
+"hsa00591 Linoleic acid metabolism"	NA	NA	4
+"hsa00592 alpha-Linolenic acid metabolism"	NA	NA	3
+"hsa00600 Sphingolipid metabolism"	NA	NA	0
+"hsa00601 Glycosphingolipid biosynthesis - lacto and neolacto series"	NA	NA	2
+"hsa00603 Glycosphingolipid biosynthesis - globo series"	NA	NA	1
+"hsa00604 Glycosphingolipid biosynthesis - ganglio series"	NA	NA	0
+"hsa00620 Pyruvate metabolism"	NA	NA	3
+"hsa00630 Glyoxylate and dicarboxylate metabolism"	NA	NA	1
+"hsa00640 Propanoate metabolism"	NA	NA	2
+"hsa00650 Butanoate metabolism"	NA	NA	1
+"hsa00670 One carbon pool by folate"	NA	NA	1
+"hsa00730 Thiamine metabolism"	NA	NA	0
+"hsa00740 Riboflavin metabolism"	NA	NA	1
+"hsa00750 Vitamin B6 metabolism"	NA	NA	0
+"hsa00760 Nicotinate and nicotinamide metabolism"	NA	NA	1
+"hsa00770 Pantothenate and CoA biosynthesis"	NA	NA	1
+"hsa00780 Biotin metabolism"	NA	NA	0
+"hsa00785 Lipoic acid metabolism"	NA	NA	0
+"hsa00790 Folate biosynthesis"	NA	NA	3
+"hsa00830 Retinol metabolism"	NA	NA	6
+"hsa00860 Porphyrin and chlorophyll metabolism"	NA	NA	2
+"hsa00900 Terpenoid backbone biosynthesis"	NA	NA	1
+"hsa00910 Nitrogen metabolism"	NA	NA	1
+"hsa00920 Sulfur metabolism"	NA	NA	1
+"hsa00970 Aminoacyl-tRNA biosynthesis"	NA	NA	3
+"hsa00980 Metabolism of xenobiotics by cytochrome P450"	NA	NA	6
+"hsa00982 Drug metabolism - cytochrome P450"	NA	NA	7
+"hsa00983 Drug metabolism - other enzymes"	NA	NA	3
+"hsa01040 Biosynthesis of unsaturated fatty acids"	NA	NA	0
+"hsa02010 ABC transporters"	NA	NA	4
+"hsa03008 Ribosome biogenesis in eukaryotes"	NA	NA	3
+"hsa03010 Ribosome"	NA	NA	0
+"hsa03013 RNA transport"	NA	NA	1
+"hsa03015 mRNA surveillance pathway"	NA	NA	2
+"hsa03018 RNA degradation"	NA	NA	3
+"hsa03020 RNA polymerase"	NA	NA	0
+"hsa03022 Basal transcription factors"	NA	NA	2
+"hsa03030 DNA replication"	NA	NA	0
+"hsa03040 Spliceosome"	NA	NA	0
+"hsa03050 Proteasome"	NA	NA	5
+"hsa03060 Protein export"	NA	NA	1
+"hsa03320 PPAR signaling pathway"	NA	NA	4
+"hsa03410 Base excision repair"	NA	NA	2
+"hsa03420 Nucleotide excision repair"	NA	NA	0
+"hsa03430 Mismatch repair"	NA	NA	0
+"hsa03440 Homologous recombination"	NA	NA	1
+"hsa03450 Non-homologous end-joining"	NA	NA	0
+"hsa04012 ErbB signaling pathway"	NA	NA	1
+"hsa04070 Phosphatidylinositol signaling system"	NA	NA	4
+"hsa04110 Cell cycle"	NA	NA	6
+"hsa04114 Oocyte meiosis"	NA	NA	3
+"hsa04115 p53 signaling pathway"	NA	NA	5
+"hsa04120 Ubiquitin mediated proteolysis"	NA	NA	7
+"hsa04122 Sulfur relay system"	NA	NA	1
+"hsa04130 SNARE interactions in vesicular transport"	NA	NA	3
+"hsa04140 Regulation of autophagy"	NA	NA	1
+"hsa04141 Protein processing in endoplasmic reticulum"	NA	NA	7
+"hsa04142 Lysosome"	NA	NA	5
+"hsa04146 Peroxisome"	NA	NA	3
+"hsa04150 mTOR signaling pathway"	NA	NA	0
+"hsa04210 Apoptosis"	NA	NA	7
+"hsa04260 Cardiac muscle contraction"	NA	NA	3
+"hsa04270 Vascular smooth muscle contraction"	NA	NA	9
+"hsa04320 Dorso-ventral axis formation"	NA	NA	1
+"hsa04330 Notch signaling pathway"	NA	NA	2
+"hsa04340 Hedgehog signaling pathway"	NA	NA	6
+"hsa04350 TGF-beta signaling pathway"	NA	NA	3
+"hsa04360 Axon guidance"	NA	NA	7
+"hsa04370 VEGF signaling pathway"	NA	NA	4
+"hsa04520 Adherens junction"	NA	NA	2
+"hsa04530 Tight junction"	NA	NA	4
+"hsa04540 Gap junction"	NA	NA	7
+"hsa04614 Renin-angiotensin system"	NA	NA	2
+"hsa04623 Cytosolic DNA-sensing pathway"	NA	NA	8
+"hsa04640 Hematopoietic cell lineage"	NA	NA	7
+"hsa04660 T cell receptor signaling pathway"	NA	NA	2
+"hsa04662 B cell receptor signaling pathway"	NA	NA	4
+"hsa04664 Fc epsilon RI signaling pathway"	NA	NA	4
+"hsa04666 Fc gamma R-mediated phagocytosis"	NA	NA	4
+"hsa04670 Leukocyte transendothelial migration"	NA	NA	5
+"hsa04672 Intestinal immune network for IgA production"	NA	NA	5
+"hsa04710 Circadian rhythm - mammal"	NA	NA	0
+"hsa04720 Long-term potentiation"	NA	NA	3
+"hsa04722 Neurotrophin signaling pathway"	NA	NA	6
+"hsa04730 Long-term depression"	NA	NA	5
+"hsa04740 Olfactory transduction"	NA	NA	8
+"hsa04744 Phototransduction"	NA	NA	4
+"hsa04910 Insulin signaling pathway"	NA	NA	7
+"hsa04912 GnRH signaling pathway"	NA	NA	6
+"hsa04914 Progesterone-mediated oocyte maturation"	NA	NA	7
+"hsa04916 Melanogenesis"	NA	NA	8
+"hsa04920 Adipocytokine signaling pathway"	NA	NA	8
+"hsa04960 Aldosterone-regulated sodium reabsorption"	NA	NA	3
+"hsa04962 Vasopressin-regulated water reabsorption"	NA	NA	2
+"hsa04964 Proximal tubule bicarbonate reclamation"	NA	NA	3
+"hsa04966 Collecting duct acid secretion"	NA	NA	1
+"hsa04970 Salivary secretion"	NA	NA	8
+"hsa04971 Gastric acid secretion"	NA	NA	7
+"hsa04973 Carbohydrate digestion and absorption"	NA	NA	4
+"hsa04975 Fat digestion and absorption"	NA	NA	3
+"hsa04976 Bile secretion"	NA	NA	6
+"hsa04977 Vitamin digestion and absorption"	NA	NA	2
